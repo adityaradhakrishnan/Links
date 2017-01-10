@@ -8,6 +8,16 @@
 
 ** Jobs to apply for: **
 
-» [Computational Biologist at Verily Life Sciences](https://www.google.com/about/careers/search#!t=jo&jid=240155001&)
+» [Computational Biologist @ Verily Life Sciences](https://www.google.com/about/careers/search#!t=jo&jid=240155001&)
 
 &nbsp;&nbsp;» [Related: NovaSeq from Illumina](http://www.illumina.com/systems/sequencing-platforms/novaseq.html)
+
+&nbsp;&nbsp;» Related: Contact Tommy
+
+» [Bioinformatics Scientist @ Counsyl](https://www.counsyl.com/careers/bioinformatics-scientist/)
+
+OR
+
+» [Scientist (Development) @ Counsyl](https://www.counsyl.com/careers/scientist-development/)
+
+&nbsp;&nbsp;» Related: Contact Genevieve (Computational Biologist from Burge Lab)
