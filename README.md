@@ -10,4 +10,4 @@
 
 » [Computational Biologist at Verily Life Sciences](https://www.google.com/about/careers/search#!t=jo&jid=240155001&)
 
-» &nbsp;&nbsp;[Related: NovaSeq from Illumina](http://www.illumina.com/systems/sequencing-platforms/novaseq.html)
+&nbsp;&nbsp;» [Related: NovaSeq from Illumina](http://www.illumina.com/systems/sequencing-platforms/novaseq.html)
