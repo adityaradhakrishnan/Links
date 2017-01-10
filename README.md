@@ -9,4 +9,5 @@
 ** Jobs to apply for: **
 
 » [Computational Biologist at Verily Life Sciences](https://www.google.com/about/careers/search#!t=jo&jid=240155001&)
+
 »   [Related: NovaSeq from Illumina](http://www.illumina.com/systems/sequencing-platforms/novaseq.html)
