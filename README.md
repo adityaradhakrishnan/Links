@@ -2,7 +2,9 @@
 
 **Things to peruse:**
 
-» [Learn how to use Hyper.is](https://hyper.is)
+» [Learn how to use Hyper Term](https://hyper.is)
+
+» [Learn how to use Black Screen IDE](https://github.com/vshatskyi/black-screen)
 
 » [Learn from Python Data Science Handbook Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 
