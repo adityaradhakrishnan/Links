@@ -6,7 +6,7 @@
 
 » [Learn from Python Data Science Handbook Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-** Jobs to apply for: **
+**Jobs to apply for:**
 
 » [Computational Biologist @ Verily Life Sciences](https://www.google.com/about/careers/search#!t=jo&jid=240155001&)
 
