@@ -20,4 +20,6 @@ OR
 
 » [Scientist (Development) @ Counsyl](https://www.counsyl.com/careers/scientist-development/)
 
+&nbsp;&nbsp;» [Related: NovaSeq from Illumina](http://www.illumina.com/systems/sequencing-platforms/novaseq.html)
+
 &nbsp;&nbsp;» Related: Contact Genevieve (Computational Biologist from Burge Lab)
