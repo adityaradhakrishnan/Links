@@ -38,6 +38,8 @@ OR
 
 » [Atlas Obscura](https://www.amazon.com/Atlas-Obscura-Explorers-Worlds-Wonders/dp/0761169083)
 
+» [Microsoft Arc Touch Mouse (Surface Edition)](https://www.amazon.com/dp/B00FG7MZP0/ref=psdc_11036491_t2_B009CP4PIW)
+
 **Lab Things to Do**
 
 » Get short list of novel annotated genes to Brendan 
