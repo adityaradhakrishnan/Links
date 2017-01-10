@@ -33,3 +33,8 @@ OR
 **Things to purchase on Amazon:**
 
 » [Urban Ear Warmer](https://www.amazon.com/180s-Urban-Warmer-Black-Size/dp/B007EKQMFQ/ref=lp_2474986011_1_3?s=apparel&ie=UTF8&qid=1484066714&sr=1-3&nodeID=2474986011)
+
+» [GliderGloves](https://www.amazon.com/dp/B0065PC552/?tag=thewire06-20&linkCode=xm2&ascsubtag=WC11650)
+
+» [Atlas Obscura](https://www.amazon.com/Atlas-Obscura-Explorers-Worlds-Wonders/dp/0761169083)
+
