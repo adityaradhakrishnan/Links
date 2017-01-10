@@ -38,3 +38,10 @@ OR
 
 » [Atlas Obscura](https://www.amazon.com/Atlas-Obscura-Explorers-Worlds-Wonders/dp/0761169083)
 
+**Lab Things to Do**
+
+### Get short list of novel annotated genes to Brendan 
+
+### Concomittant to this, process two additional RNA-Seq 
+
+### Subsequent to that 
