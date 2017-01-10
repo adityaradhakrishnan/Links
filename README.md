@@ -40,8 +40,9 @@ OR
 
 **Lab Things to Do**
 
-### Get short list of novel annotated genes to Brendan 
+» Get short list of novel annotated genes to Brendan 
 
-### Concomittant to this, process two additional RNA-Seq 
+» Subsequent to that provide final annotations to Brendan
 
-### Subsequent to that 
+» Finally, reanalyze all RNA-Seq with new annotations (make sure to give scripts to Brendan)
+
