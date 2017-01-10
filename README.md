@@ -1,10 +1,12 @@
 # Links
 
-**Things to do promptly:**
+**Things to peruse:**
 
 » [Learn how to use Hyper.is](https://hyper.is)
 
 » [Learn from Python Data Science Handbook Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+» [Review the Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu)
 
 **Unix tools to learn more about:**
 
