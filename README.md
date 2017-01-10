@@ -6,6 +6,10 @@
 
 » [Learn from Python Data Science Handbook Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+**Unix tools to learn more about:**
+
+» [screenFetch - Information about your operating system](https://github.com/KittyKatt/screenFetch)
+
 **Jobs to apply for:**
 
 » [Computational Biologist @ Verily Life Sciences](https://www.google.com/about/careers/search#!t=jo&jid=240155001&)
@@ -49,4 +53,5 @@ OR
 » Subsequent to that provide final annotations to Brendan
 
 » Finally, reanalyze all RNA-Seq with new annotations (make sure to give scripts to Brendan)
+
 
