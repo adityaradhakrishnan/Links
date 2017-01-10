@@ -25,3 +25,7 @@ OR
 &nbsp;&nbsp;» Related: Contact Genevieve (Computational Biologist from Burge Lab)
 
 &nbsp;&nbsp;&nbsp;&nbsp;» Related: Read the following two ([1](https://github.com/adityaradhakrishnan/Links/blob/master/Files/Gould-RNA-Branch-2016.pdf), [2](https://github.com/adityaradhakrishnan/Links/blob/master/Files/Gould-PNAS-miRNA-2011.pdf)) papers.
+
+**Things to purchase on Amazon:**
+
+» [Urban Ear Warmer](https://www.amazon.com/180s-Urban-Warmer-Black-Size/dp/B007EKQMFQ/ref=lp_2474986011_1_3?s=apparel&ie=UTF8&qid=1484066714&sr=1-3&nodeID=2474986011)
