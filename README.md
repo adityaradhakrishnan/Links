@@ -6,6 +6,8 @@
 
 » [Learn how to use Black Screen IDE](https://github.com/vshatskyi/black-screen)
 
+» [Theming your Linux setup](https://www.reddit.com/r/unixporn/comments/5hjy1n/i3_long_time_no_see/)
+
 » [Learn from Python Data Science Handbook Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 » [Review the Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu)
