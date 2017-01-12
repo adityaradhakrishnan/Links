@@ -40,6 +40,8 @@ OR
 
 &nbsp;&nbsp;&nbsp;&nbsp;» Related: His e-mail is basilhussain - at - gmail.com
 
+» Look into [The Data Incubator](https://www.thedataincubator.com/fellowship.html#apply?ref=wQ2Fyb2xpbmUuS2VsbHlAamh1LmVkdQ==)
+
 **Things to purchase on Amazon:**
 
 » [Urban Ear Warmer](https://www.amazon.com/180s-Urban-Warmer-Black-Size/dp/B007EKQMFQ/ref=lp_2474986011_1_3?s=apparel&ie=UTF8&qid=1484066714&sr=1-3&nodeID=2474986011)
