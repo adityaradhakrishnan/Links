@@ -20,6 +20,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;» [Comparison of screenFetch and neoFetch](https://github.com/dylanaraps/neofetch/wiki/Neofetch-vs-Screenfetch)
 
+» [Airline - Status Bar for Vim](https://github.com/vim-airline/vim-airline)
+
 **Jobs to apply for:**
 
 » [Computational Biologist @ Verily Life Sciences](https://www.google.com/about/careers/search#!t=jo&jid=240155001&)
