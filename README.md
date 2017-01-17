@@ -10,6 +10,8 @@
 
 » [Learn from Python Data Science Handbook Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+» [Tools for DataScience](https://jeffersonheard.github.io/2017/01/being-a-data-scientist-my-experience-and-toolset/)
+
 » [Review the Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu)
 
 **Unix tools to learn more about:**
