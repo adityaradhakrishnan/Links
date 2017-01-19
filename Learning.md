@@ -1,5 +1,7 @@
 **Learning How to Learn**
 
+Professors: [Terrence Sejnowski](http://www.salk.edu/scientist/terrence-sejnowski/) and [Barbara Oakley](http://barbaraoakley.com)
+
 ***Introduction to Focused and Diffuse Modes***
 
 * Two fundamentally different modes of thinking: focused and diffused
