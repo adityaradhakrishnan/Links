@@ -14,6 +14,8 @@
 
 » [Review the Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu)
 
+» [Learn Music Information Retrieval](http://musicinformationretrieval.com)
+
 **Unix tools to learn more about:**
 
 » [screenFetch - Information about your operating system](https://github.com/KittyKatt/screenFetch)
