@@ -7,4 +7,4 @@
 
 ### CSR Additional Benefits ###
 
-* (Relais &  Hotels Partnering With CSR)[http://static.relaischateaux.com/data/model/partenaires/preferred_partner_program_list_of_participating_properties_06_01_2017.pdf]
+* [Relais &  Hotels Partnering With CSR](http://static.relaischateaux.com/data/model/partenaires/preferred_partner_program_list_of_participating_properties_06_01_2017.pdf)
