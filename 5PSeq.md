@@ -4,7 +4,7 @@ By Aditya Radhakrishnan (Current Version: February 4th, 2017)
 
 This protocol is used to generate 5P-Seq sequencing libraries by enriching for mRNA species containing a 5' Phosphate group, which is a sign of 5' exonucleolytic cleavage by Xrn1. This protocol can also be used to quickly generate mRNA-Seq libraries without using gels, by using purely a magnetic (SPRI bead) based purification.<sup>1</sup>
 
-** Table of Contents **
+**Table of Contents**
 1. [Preparing total RNA from yeast](#Preparing-total-RNA-from-yeast)
 
 #### Preparing total RNA from yeast
