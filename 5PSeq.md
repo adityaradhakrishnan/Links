@@ -4,7 +4,7 @@ By Aditya Radhakrishnan (Current Version: February 4th, 2017)
 
 This protocol is used to generate 5P-Seq sequencing libraries by enriching for mRNA species containing a 5' Phosphate group, which is a sign of 5' exonucleolytic cleavage by Xrn1. This protocol can also be used to quickly generate mRNA-Seq libraries without using gels, by using purely a magnetic (SPRI bead) based purification.<sup>1</sup>
 
-**Preparing total RNA from yeast**
+#### Preparing total RNA from yeast
 
 1) Start with at least 25 ug of total mRNA and use Turbo DNase to remove any DNA that may persist in your total mRNA. While I've found that this is largely unnecessary following acid phenol extraction (DNA precipitates and migrates to the organic phase at low pH), it may be useful to address any contamination issues early. Further, this treatment often leads to minimal loss of mRNA.
 
