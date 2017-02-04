@@ -7,7 +7,7 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 **Table of Contents**
 
 1. [Preparing total RNA from yeast](#preparing-total-rna-from-yeast)
-2. [Preparing randomly fragmented samples for mRNA-Seq](#test)
+2. [Preparing randomly fragmented samples for mRNA-Seq](#preparing-randomly-fragmented-samples-for-mrna-seq)
 
 #### Preparing total RNA from yeast
 
