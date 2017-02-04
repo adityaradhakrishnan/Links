@@ -10,19 +10,19 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 
 <sup>1</sup> [Fisher *et al. Genome Biol* 2011 **12**:12:R1](https://www.ncbi.nlm.nih.gov/pubmed/21205303)
 
-### Oligo-(dT)<sub>25</sub> Dynabeads Binding Buffer
+#### Oligo-(dT)<sub>25</sub> Dynabeads Binding Buffer
 
 * 20 mM Tris-Hcl (pH 7.5)
 * 1 M LiCl
 * 2 mM EDTA
 
-### Oligo-(dT)<sub>25</sub> Dynabeads Wash Buffer
+#### Oligo-(dT)<sub>25</sub> Dynabeads Wash Buffer
 
 * 10 mM Tris-Hcl (pH 7.5)
 * 150 mM LiCl
 * 1 mM EDTA
 
-### Streptavidin M-280 Beads Bind and Wash Buffer
+#### Streptavidin M-280 Beads Bind and Wash Buffer
 
 * 5 mM Tris-HCl (pH 7.5)
 * 0.5 mM EDTA
