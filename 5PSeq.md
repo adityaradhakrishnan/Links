@@ -9,3 +9,10 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 1) Start with at least 25 ug of total mRNA and use Turbo DNase to remove any DNA that may persist in your total mRNA. While I've found that this is largely unnecessary following acid phenol extraction (DNA precipitates and migrates to the organic phase at low pH), it may be useful to address any contamination issues early. Further, this treatment often leads to minimal loss of mRNA.
 
 <sup>1</sup> [Fisher *et al. Genome Biol* 2011 **12**:12:R1](https://www.ncbi.nlm.nih.gov/pubmed/21205303)
+
+
+### Streptavidin M-280 Beads Bind and Wash Buffer
+
+* 5 mM Tris-HCl (pH 7.5)
+* 0.5 mM EDTA
+* 1 M NaCl
