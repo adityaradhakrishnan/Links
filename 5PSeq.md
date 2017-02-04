@@ -14,6 +14,19 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 
 1) Start with at least 25 ug of total mRNA and use Turbo DNase to remove any DNA that may persist in your total mRNA. While I've found that this is largely unnecessary following acid phenol extraction (DNA precipitates and migrates to the organic phase at low pH), it may be useful to address any contamination issues early. Further, this treatment often leads to minimal loss of mRNA.
 
+2) Set up the following reaction and incubate samples at 37 <sup></sup>C for 30 minutes.
+
+| Reagent                                  | Amount  |
+|------------------------------------------|---------|
+| Total RNA                                | > 25 ug |
+| TURBO DNase Buffer (10x)                 | 5 uL    |
+| TURBO DNase Enzyme (2 U uL<sup>-1</sup>) | 2 uL    |
+| SUPERase•In (20 U uL<sup>-1</sup>)       | 1 uL    |
+| H<sub>2</sub>O                           | to 50 uL|
+
+3) Add 5 uL of TURBO DNase inactivation reagent, mix, and incubate samples for 5 minutes at room temperature.
+4) Centrifuge samples at 16,000 x*g* for 2 minutes and recover the supernatant
+
 #### Preparing randomly fragmented samples for mRNA-Seq
 
 Given that random fragmentation leads to 5'-OH ends, we use a T4 PNK reaction to rephosphorylate ends of the fragments so that they can ligate to the 5P-Seq Linker.
