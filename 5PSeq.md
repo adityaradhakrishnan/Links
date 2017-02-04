@@ -6,11 +6,15 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 
 **Table of Contents**
 
-1. [Preparing total RNA from yeast](#Preparing-total-RNA-from-yeast)
+1. [Preparing total RNA from yeast](#preparing-total-rna-from-yeast)
+2. [Preparing randomly fragmented samples for mRNA-Seq](#test)
 
 #### Preparing total RNA from yeast
 
 1) Start with at least 25 ug of total mRNA and use Turbo DNase to remove any DNA that may persist in your total mRNA. While I've found that this is largely unnecessary following acid phenol extraction (DNA precipitates and migrates to the organic phase at low pH), it may be useful to address any contamination issues early. Further, this treatment often leads to minimal loss of mRNA.
+
+#### Preparing randomly fragmented samples for mRNA-Seq
+
 
 <sup>1</sup> [Fisher *et al. Genome Biol* 2011 **12**:12:R1](https://www.ncbi.nlm.nih.gov/pubmed/21205303)
 
