@@ -8,6 +8,7 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 
 1. [Preparing total RNA from yeast](#preparing-total-rna-from-yeast)
 2. [Preparing randomly fragmented samples for mRNA-Seq](#preparing-randomly-fragmented-samples-for-mrna-seq)
+3. [Single-stranded RNA ligation](#single-stranded-rna-ligation)
 3. [Citations](#citations)
 
 #### Preparing total RNA from yeast
@@ -30,6 +31,8 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 #### Preparing randomly fragmented samples for mRNA-Seq
 
 Given that random fragmentation leads to 5'-OH ends, we use a T4 PNK reaction to rephosphorylate ends of the fragments so that they can ligate to the 5P-Seq Linker.
+
+#### Single-stranded RNA ligation
 
 #### Citations
 
