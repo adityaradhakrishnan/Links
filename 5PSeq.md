@@ -9,7 +9,17 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 1. [Preparing total RNA from yeast](#preparing-total-rna-from-yeast)
 2. [Preparing randomly fragmented samples for mRNA-Seq](#preparing-randomly-fragmented-samples-for-mrna-seq)
 3. [Single-stranded RNA ligation](#single-stranded-rna-ligation)
-3. [Citations](#citations)
+4. [Depletion of rRNA molecules](#depletion-of-rrna-molecules)
+5. [Fragmentation of mRNA](#fragmentation-of-mrna)
+6. [Reverse transcription](#reverse-transcription)
+7. [Second-strand synthesis by PCR](#second-strand-synthesis-by-pcr)
+8. [Sample enrichment by streptavidin selection](#sample-enrichment by streptavidin selection)
+9. [A-tailing DNA fragments](#a-tailing-dna-fragments)
+10. [Common adapter ligation](#common-adapter-ligation)
+11. [Library PCR amplification](#library-pcr-amplification)
+12. [Library size selection](#library-size-selection)
+13. [Bioinformatics analysis](#bioinformatics-analysis)
+14. [Citations](#citations)
 
 #### Preparing total RNA from yeast
 
@@ -33,6 +43,28 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 Given that random fragmentation leads to 5'-OH ends, we use a T4 PNK reaction to rephosphorylate ends of the fragments so that they can ligate to the 5P-Seq Linker.
 
 #### Single-stranded RNA ligation
+
+#### Depletion of rRNA molecules
+
+#### Fragmentation of mRNA
+
+#### Reverse trancription
+
+#### Second-strand synthesis by PCR
+
+#### Sample enrichment by streptavidin selection
+
+#### A-tailing DNA fragments
+
+#### Common adapter ligation
+
+#### Common adapter ligation
+
+#### Library PCR amplification
+
+#### Library size selection
+
+#### Bioinformatics analysis
 
 #### Citations
 
