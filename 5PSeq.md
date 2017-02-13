@@ -44,6 +44,12 @@ To generate a control mRNA library, we can randomly fragment molecules and use 5
 
 1) Start by taking one-fifth of the RNA from the previous step and dilute to 25 uL. To this sample, add 25 uL of [2x RNA fragmentation buffer](#2x-rna-fragmentation-buffer). 
 
+Note: While the original protocol suggests using a fragmentation buffer consisting of tris acetate, magnesium acetate, and potassium acetate, the buffer here has been used previously in mRNA-seq sample prep in the lab profiling protocol and appears to work equally well.
+
+2) Incubate the sample at 80 <sup>o</sup>C for five minutes, then place on ice.
+
+3) Purify the sample using 2x volumes of AmpPure XP beads.
+
 
 #### Single-stranded RNA ligation
 
