@@ -40,7 +40,10 @@ This protocol is used to generate 5P-Seq sequencing libraries by enriching for m
 
 #### Preparing randomly fragmented samples for mRNA-Seq
 
-Given that random fragmentation leads to 5'-OH ends, we use a T4 PNK reaction to rephosphorylate ends of the fragments so that they can ligate to the 5P-Seq Linker.
+To generate a control mRNA library, we can randomly fragment molecules and use 5'-phosphate selection to carry through mRNA which should be representative of the transcriptome. However, given that random fragmentation leads to 5'-OH ends, we use a T4 PNK reaction to rephosphorylate ends of the fragments so that they can ligate to the 5P-Seq Linker.
+
+1) Start by taking one-fifth of the RNA from the previous step and dilute to 25 uL. To this sample, add 25 uL of [2x RNA fragmentation buffer](#2x-rna-fragmentation-buffer). 
+
 
 #### Single-stranded RNA ligation
 
@@ -69,6 +72,12 @@ Given that random fragmentation leads to 5'-OH ends, we use a T4 PNK reaction to
 #### Citations
 
 <sup>1</sup> [Fisher *et al. Genome Biol* 2011 **12**:12:R1](https://www.ncbi.nlm.nih.gov/pubmed/21205303)
+
+#### 2X RNA Fragmentation Buffer
+* 0.15 mL of 100 mM Na<sub>2</sub>CO<sub>3</sub>
+* 1.10 mL of 100 mM NaHCO<sub>3</sub>
+* 2 mM EDTA
+* pH the solution to 9.2
 
 #### Oligo-(dT)<sub>25</sub> Dynabeads Binding Buffer
 
